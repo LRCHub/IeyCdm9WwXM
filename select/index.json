@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "TAIDADA",
+  "base_artist": "ずっと真夜中でいいのに。",
+  "createdAt": "2025-12-09T20:46:21.416831Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "TAIDADA",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/01_TAIDADA_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "TAIDADA",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/02_TAIDADA_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "TAIDADA",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/03_TAIDADA_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "TAIDADA",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/04_TAIDADA_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "TAIDADA",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/05_TAIDADA_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "TAIDADA",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/06_TAIDADA_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ずっと真夜中でいいのに。『TAIDADA』 (ZUTOMAYO - TAIDADA)（Audio Track）",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/07_ずっと真夜中でいいのに。『TAIDADA』_(ZUTOMAYO_-_TAIDADA)(Audio_Track)_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "TAIDADA",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/08_TAIDADA_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "TAIDADA (Instrumental)",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/09_TAIDADA_(Instrumental)_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "TAIDADA",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/10_TAIDADA_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "TAIDADA",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/11_TAIDADA_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "TAIDADA",
+      "artist": "Zutto Mayonaka de Ii no ni.",
+      "has_synced": true,
+      "path": "select/12_TAIDADA_Zutto_Mayonaka_de_Ii_no_ni..lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TAIDADA",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_01_TAIDADA_ずっと真夜中でいいのに。.txt"
+    }
+  ]
+}
