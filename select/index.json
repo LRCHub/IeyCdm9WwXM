@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "TAIDADA",
   "base_artist": "ずっと真夜中でいいのに。",
-  "createdAt": "2025-12-09T20:46:21.416831Z",
+  "createdAt": "2026-03-18T18:21:46.462310Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -107,6 +107,15 @@
       "artist": "ずっと真夜中でいいのに。",
       "has_synced": false,
       "path": "select/pl_01_TAIDADA_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "TAIDADA",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/localdb_01_TAIDADA_ずっと真夜中でいいのに。.lrc",
+      "repo_name": "IeyCdm9WwXM"
     }
   ]
 }
